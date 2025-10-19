@@ -1,0 +1,3 @@
+Python is powerful and easy to learn.
+It is great for automation and data analysis.
+Python is loved by developers worldwide.
