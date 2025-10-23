@@ -1,0 +1,47 @@
+Analysis report for titanic_cleansed.csv
+
+PassengerId:
+    mean: 446.0
+    median: 446.0
+    std: 257.35
+
+Survived:
+    mean: 0.38
+    median: 0.0
+    std: 0.49
+
+Pclass:
+    mean: 2.31
+    median: 3.0
+    std: 0.84
+
+Age:
+    mean: 29.36
+    median: 28.0
+    std: 13.02
+
+SiblingsOnBoard:
+    mean: 0.52
+    median: 0.0
+    std: 1.1
+
+ParentsChildrenOnBoard:
+    mean: 0.38
+    median: 0.0
+    std: 0.81
+
+Fare:
+    mean: 32.2
+    median: 14.45
+    std: 49.69
+
+FamilySize:
+    mean: 1.9
+    median: 1.0
+    std: 1.61
+
+isAlone:
+    mean: 0.6
+    median: 1.0
+    std: 0.49
+
